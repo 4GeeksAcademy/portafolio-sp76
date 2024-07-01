@@ -2,3 +2,8 @@ las taecnologias que manejo son:
 
 html 
 css
+bootstrap
+
+
+react
+python

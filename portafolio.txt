@@ -3,7 +3,5 @@ las taecnologias que manejo son:
 html 
 css
 bootstrap
+comnand line
 
-
-react
-python

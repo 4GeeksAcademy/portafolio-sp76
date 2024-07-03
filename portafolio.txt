@@ -11,7 +11,7 @@ github
 buenas practicas
 git branchs
 
-boton pago
+boton pago mejorado
 
 cambio 1
 cambio 2
